@@ -10,10 +10,10 @@ La webstory aborda los legados compartidos en la música y busca responder la pr
 * En la siguiente imagen pueden apreciarse las canciones que provienen de *In The Hall of the Mountain King* de Edvard Grieg.
 ![In The Hall of the Mountain King](InTheHalloftheMountainKing.png)
 
-* En esta imagen, se visualizan algunas canciones que samplearon o “interpolaron” *Funky Drummer* de James Brown (1970).
+* En esta imagen se visualizan algunas canciones que samplearon o “interpolaron” *Funky Drummer* de James Brown (1970).
 ![Funky Drummer](FunkyDrummer.png)
 
-* Acá, por ejemplo, se evidencia cómo la canción *Rock DJ* (2000) utiliza la letra de la canción *Can I Kick It?* (1990), que a su vez se basó en *Walk on the Wild Side* de Lou Reed (1972). 
+* Acá, por ejemplo, se evidencia cómo la canción *Rock DJ* (2000) utiliza la letra de la canción *Can I Kick It?* (1990), que, a su vez, se basó en *Walk on the Wild Side* de Lou Reed (1972). 
 ![Rock DJ](RockDj.png)
 
 * Por último, este gráfico muestra que la canción *Shake It* (2022) ocupa la melodía, la letra y el bajo de 3 canciones diferentes.
