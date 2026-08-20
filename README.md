@@ -5,15 +5,15 @@
 ## Descripción de la historia
 La webstory aborda los legados compartidos en la música y busca responder la pregunta: “¿Y si los sonidos más emblemáticos de hoy no son solo de hoy?”. Esta historia narra cómo los sonidos se traspasan de generación en generación, y analiza la evolución de una selección de canciones. Por ejemplo, evidencia cómo música orquestal de 1875 *(In The Hall of the Mountain King)* se convirtió en música electrónica en 1983 *(Inspector Gadget)* y, posteriormente, en una melodía de rap en 1985 *(Bad Boys)*, que derivó en la canción *Big Poppa* de Notorious B.I.G. en 1995. 
 
- En su narrativa, __*Music DNA Legacies*__, también considera otras aristas para mostrar las conexiones que hay en la música: indaga cómo una canción puede ser directamente sampleada, cómo las letras de estas canciones pueden traspasarse a través de los años o cómo una canción puede tomar elementos de otras para ser creada.
-
 * En la siguiente imagen pueden apreciarse las canciones que provienen de *In The Hall of the Mountain King* de Edvard Grieg.
 ![In The Hall of the Mountain King](InTheHalloftheMountainKing.png)
+
+ En su narrativa, __*Music DNA Legacies*__, también considera otras aristas para mostrar las conexiones que hay en la música: indaga cómo una canción puede ser directamente sampleada, cómo las letras de estas canciones pueden traspasarse a través de los años o cómo una canción puede tomar elementos de otras para ser creada.
 
 * En esta imagen se visualizan algunas canciones que samplearon o “interpolaron” *Funky Drummer* de James Brown (1970).
 ![Funky Drummer](FunkyDrummer.png)
 
-* Acá, por ejemplo, se evidencia cómo la canción *Rock DJ* (2000) utiliza la letra de la canción *Can I Kick It?* (1990), que, a su vez, se basó en *Walk on the Wild Side* de Lou Reed (1972). 
+* Acá, por ejemplo, se evidencia cómo la canción *Rock DJ* (2000) utiliza la letra de la canción *Can I Kick It?* (1990). 
 ![Rock DJ](RockDj.png)
 
 * Por último, este gráfico muestra que la canción *Shake It* (2022) ocupa la melodía, la letra y el bajo de 3 canciones diferentes.
