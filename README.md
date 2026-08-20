@@ -16,7 +16,7 @@ La webstory aborda los legados compartidos en la música y busca responder la pr
 * Acá, por ejemplo, se evidencia cómo la canción *Rock DJ* (2000) utiliza la letra de la canción *Can I Kick It?* (1990), que a su vez se basó en *Walk on the Wild Side* de Lou Reed (1972). 
 ![Rock DJ](RockDj.png)
 
-* Por último, esta gráfica muestra que la canción *Shake It* (2022) ocupa la melodía, la letra y el bajo de 3 canciones diferentes.
+* Por último, este gráfico muestra que la canción *Shake It* (2022) ocupa la melodía, la letra y el bajo de 3 canciones diferentes.
 ![Shake It](ShakeIt.png)
 
 ## ¿Qué destaca de su estructura narrativa?
