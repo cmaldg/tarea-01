@@ -30,7 +30,7 @@ La información logra ser transmitida de forma dinámica y concisa. Asimismo, un
 Por otra parte, los gráficos son claros y fáciles de entender. Sin embargo, creo que hubiera sido ideal que, al pasar el cursor por los gráficos con más información, aparecieran los nombres de las canciones. Así uno podría corroborar por sus propios medios si estos otros sonidos coinciden. 
 
 ## ¿Por qué me pareció interesante? 
-La webstory es completamente inmersiva y el tema me parece entretenido. Por otra parte, desde el inicio se plantea una interacción con el usuario, dado que se da la opción de escuchar la música que aparece mientras visualizas la historia. Creo que esto también tiene un punto a favor, porque si uno elige la opción "stay muted”, la historia ni siquiera podría apreciarse. Asimismo, es impresionante la cantidad de datos que se tuvieron que recolectar y verificar para hacer las gráficas de una sola canción. Más allá de eso, el trabajo detrás de esta historia debió ser enorme, porque cada día aumenta el listado de canciones que comparten ADN. 
+La webstory es completamente inmersiva y el tema me parece entretenido. Por otra parte, desde el inicio se plantea una interacción con el usuario, dado que se da la opción de escuchar la música mientras visualizas la historia. Creo que esto también tiene un punto a favor, porque si uno elige la opción "stay muted”, la historia ni siquiera podría apreciarse. Asimismo, es impresionante la cantidad de datos que se tuvieron que recolectar y verificar para hacer las gráficas de una sola canción. Más allá de eso, el trabajo detrás de esta historia debió ser enorme, porque cada día aumenta el listado de canciones que comparten ADN. 
 
 
 
