@@ -17,12 +17,12 @@ La webstory aborda los legados compartidos en la música e inicia con la pregunt
 ![Shake It](ShakeIt.png)
 
 ## ¿Qué destaca de su estructura narrativa?
-La estructura de la historia está muy bien organizada. Además, inmediatamente inicia con un gancho, donde se puede escuchar el origen de la melodía de *Not Like Us* de Kendric Lamar (2024). Asimismo, el estilo narrativo se mantiene durante toda la webstory y considero que este va de menos a más. Al comienzo, oyes las similitudes entre dos o tres ritmos y, de a poco, vas descubriendo que estos están conectados con muchas otras canciones. Es lo que ocurre con *Hit ´Em Up* de 2Pac, que, debido a samples, "interpolaciones" o remezclas con otras canciones, logra relacionarse con *In The Hall of the Mountain King*. 
+La estructura de la historia está muy bien organizada. Además, inmediatamente inicia con un gancho, donde se puede escuchar el origen de la melodía de *Not Like Us* de Kendric Lamar (2024). Asimismo, el estilo narrativo se mantiene durante toda la webstory y considero que este va de menos a más. Al comienzo, oyes las similitudes entre dos o tres ritmos y, de a poco, vas descubriendo que estos están conectados con muchas otras canciones. Es lo que ocurre con *Hit 'Em Up* de 2Pac, que mediante samples, "interpolaciones" o remezclas con otras canciones, logra relacionarse con *In The Hall of the Mountain King*. 
 
-* En la siguiente imagen puede apreciarse la conexión de *Hit ´Em Up* con *In The Hall of the Mountain King* de Edvard Grieg.
+* En la siguiente imagen puede apreciarse la conexión de *Hit 'Em Up* con *In The Hall of the Mountain King* de Edvard Grieg.
 ![Hit ´Em Up](HitEmUp.png)
 
-Por otra parte, la narrativa también está ordenada según los tipos de conexiones musicales mediante los apartados "Borrowed beats", "Loaned lyrics" y "Multipurpose melodies".
+Por otra parte, la webstory también se divide en las secciones "Borrowed beats", "Loaned lyrics" y "Multipurpose melodies", donde se identifican los tipos de conexiones musicales.
 
 ## Efectividad para transmitir la información
 La información logra ser transmitida de forma dinámica y concisa. Asimismo, un elemento que destacaría es que la interacción con el usuario se vuelve indispensable para entender lo que plantea la webstory. Por lo mismo, la historia requiere un buen equilibrio entre imágenes y texto, donde ambos elementos se complementen. Sería poco atractivo comunicar los resultados sin las portadas de las canciones o el propio sonido, porque no se entendería el ADN musical.
